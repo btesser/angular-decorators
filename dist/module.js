@@ -1,5 +1,6 @@
 'use strict';
 
+var angular = require('angular');
 Object.defineProperty(exports, '__esModule', {
 	value: true
 });
